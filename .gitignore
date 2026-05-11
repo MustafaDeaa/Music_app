@@ -1,0 +1,9 @@
+ACE-Step-1.5/
+
+*.log
+.env
+.env.*
+!.env.example
+
+node_modules/
+dist/
